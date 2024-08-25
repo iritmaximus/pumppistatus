@@ -1,7 +1,0 @@
-{
-  "name": "pumppistatus",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Aaro Koivukangas <aaro.koivukangas@gmail.com>",
-  "license": "MIT"
-}
